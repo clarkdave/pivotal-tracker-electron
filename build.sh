@@ -1,6 +1,6 @@
 #!/bin/bash
 
-nativefier \
+./node_modules/.bin/nativefier \
   --name 'Pivotal Tracker' \
   --icon icon.png \
   --single-instance \
